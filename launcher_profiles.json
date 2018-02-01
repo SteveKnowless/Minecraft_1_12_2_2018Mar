@@ -2,7 +2,7 @@
   "profiles": {
     "Default": {
       "name": "Default",
-      "lastVersionId": "1.12.2-forge1.12.2-14.23.1.2607",
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.1.2608",
       "javaDir": "C:\\Program Files\\Java\\jre1.8.0_161\\bin\\javaw.exe",
       "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M"
     }
