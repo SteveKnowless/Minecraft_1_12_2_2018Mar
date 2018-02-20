@@ -1,1 +1,0 @@
-furnace.addRecipe(<minecraft:leather>, <minecraft:rotten_flesh>,  0.2);
