@@ -25,6 +25,7 @@ print(" ==================================================== ");
 		rftoolsdim: {id: "rftoolsdim:rftoolsdim_manual", Count: 1 as byte, tag: {"akashictome:definedMod": "rftoolsdim"}, Damage: 0 as short}, 
 		yoyos: {id: "yoyos:book", Count: 1 as byte, tag: {"akashictome:definedMod": "yoyos"}, Damage: 0 as short}, 
 		hammercore: {id: "hammercore:manual", Count: 1 as byte, tag: {"akashictome:definedMod": "hammercore"}, Damage: 0 as short}, 
+		conarm: {id: "conarm:book", Count: 1 as byte, tag: {"akashictome:definedMod": "conarm"}, Damage: 0 as short}, 
 		rftools1: {id: "rftools:rftools_shape_manual", Count: 1 as byte, tag: {"akashictome:definedMod": "rftools1"}, Damage: 0 as short}}});
 
 	//metadata to item

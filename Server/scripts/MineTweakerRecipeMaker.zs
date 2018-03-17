@@ -28,7 +28,5 @@ recipes.addShapeless(<minecraft:blaze_powder>, [<ore:dustRedstone>, <ore:dustGlo
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<minecraft:blaze_rod>, [[null, <minecraft:blaze_powder>, null], [<minecraft:blaze_powder>, <tconstruct:tough_tool_rod>, <minecraft:blaze_powder>], [null, <minecraft:blaze_powder>, null]]);
-recipes.addShaped(<tconstruct:tough_tool_rod>, [[null, null, <ore:ingotSteel>], [null, <ore:ingotSteel>, null], [<ore:ingotSteel>, null, null]]);
 recipes.addShaped(<minecraft:ghast_tear>, [[<minecraft:nether_wart>, <ore:cropNetherWart>, <minecraft:nether_wart>], [<ore:cropNetherWart>, <minecraft:fire_charge>, <minecraft:nether_wart>], [<ore:cropNetherWart>, <ore:cropNetherWart>, <ore:cropNetherWart>]]);
 recipes.addShaped(<minecraft:glowstone_dust> * 4, [[<ore:nuggetGold>, <ore:dustRedstone>, <ore:nuggetGold>], [<ore:dustRedstone>, <ore:nuggetGold>, <ore:dustRedstone>], [<ore:nuggetGold>, <ore:dustRedstone>, <ore:nuggetGold>]]);
